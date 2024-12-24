@@ -1,17 +1,14 @@
-# ZK ERA BUSINESS Platform
+# ZKBUSINESS Support
 
-This is a [RainbowKit](https://rainbowkit.com) + [wagmi](https://wagmi.sh) + [Next.js](https://nextjs.org/) project bootstrapped with [`create-rainbowkit`](/packages/create-rainbowkit).
+If you have any questions or need assistance with creating issues, feel free to open a discussion or contact the repository maintainers.
 
-## Getting Started
+## How to use
 
-First, run the development server:
+Create an issue.
+1. Select template
+2. Title
+3. Content (*including screenshot)
 
-```bash
-npm run dev
-```
+You must provide a clear and correct issue to the support team.
 
-Open [http://localhost:4100](http://localhost:4100) with your browser to see the result.
-
-### Continue earning with staking
-
-<img align="center" style="display:flex" alt="zkbusiness" src="https://github.com/zkbusiness/zkstaking-platform/blob/dev/public/images/full-screen.png?raw=true"/>
+### The support team will resolve your issue as soon as possible.
